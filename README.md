@@ -184,7 +184,7 @@ Commands use the format: `:cody [command]`
 # Installing and Using Cody PBT
 
 ## Installing
-1. Clone or download Cody PBT from: https://github.com/ibuildwith-ai/cody-framework  
+1. Clone or download Cody PBT from: https://github.com/ibuildwith-ai/cody-pbt
 2. Copy the `.cody`, `.claude`, and `.github` folders into your project root.
 
 ## Activating

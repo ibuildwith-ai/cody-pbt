@@ -3,7 +3,7 @@
 set -e
 
 # Configuration
-GITHUB_REPO="ibuildwith-ai/cody-framework"
+GITHUB_REPO="ibuildwith-ai/cody-pbt"
 GITHUB_RAW_URL="https://raw.githubusercontent.com/${GITHUB_REPO}/main/.cody/config/settings.json"
 LOCAL_SETTINGS_PATH="./.cody/config/settings.json"
 
